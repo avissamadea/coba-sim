@@ -3,3 +3,7 @@ jadwal sim :
 - pendahuluan
 - review basis data
 - koneksi data dari sql ke r
+
+materi 2
+- review analisis data
+- pengenalan markdown

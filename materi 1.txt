@@ -7,3 +7,4 @@ jadwal sim :
 materi 2
 - review analisis data
 - pengenalan markdown
+- menjalankan git
